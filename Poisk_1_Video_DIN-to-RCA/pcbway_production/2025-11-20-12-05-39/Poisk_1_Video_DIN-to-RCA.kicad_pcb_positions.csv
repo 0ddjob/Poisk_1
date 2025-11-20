@@ -1,0 +1,5 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+139.096387,-129.55,-90.0,top,J1,671-0801,,6710801,Поиск 1 X8 (Видео),tht
+120.496387,-109.65,0.0,top,J2,FC68371,,FC68371,Video,tht
+120.496387,-123.025,0.0,top,J3,FC68371,,FC68371,Audio (L),tht
+120.496387,-136.45,0.0,top,J4,FC68371,,FC68371,Audio (R),tht
